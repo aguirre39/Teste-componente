@@ -1,4 +1,5 @@
 # teste-componente
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/:aguirre39/:Teste-componente/:maven)
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
